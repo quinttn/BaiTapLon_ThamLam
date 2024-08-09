@@ -1,0 +1,16 @@
+Giải thuật xây dựng và nén bằng mã Huffman trong đoạn mã trên có các độ phức tạp như sau:
+
+Xây dựng heap ban đầu (Insert):
+
+Độ phức tạp: O(n * log n) với n là số lượng ký tự, do việc thêm từng phần tử vào heap có độ phức tạp O(log n).
+Xây dựng cây Huffman (DeleteMin):
+
+Độ phức tạp: O(n * log n), do mỗi lần xóa phần tử nhỏ nhất khỏi heap và thêm một nút mới vào heap cũng có độ phức tạp O(log n).
+Xây dựng bảng mã Huffman (BuildHuffmanCodes):
+
+Độ phức tạp: O(n), do việc duyệt qua toàn bộ các nút lá của cây Huffman.
+Mã hóa chuỗi (Encode):
+
+Độ phức tạp: O(m) với m là độ dài của chuỗi cần mã hóa, do duyệt qua từng ký tự của chuỗi và tra cứu mã Huffman.
+Tổng kết:
+Độ phức tạp chính của giải thuật này là O(n * log n), chi phối bởi quá trình xây dựng heap và cây Huffman.

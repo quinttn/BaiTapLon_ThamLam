@@ -1,0 +1,13 @@
+Giải thuật trong đoạn mã này là một giải pháp tham lam (Greedy) để giải bài toán Người Du Lịch (Travelling Salesman Problem - TSP). Dưới đây là phân tích độ phức tạp của thuật toán:
+
+Tạo ma trận khoảng cách:
+
+Ma trận khoảng cách giữa các điểm được tính toán với độ phức tạp O(n^2), trong đó n là số lượng điểm.
+Tìm đường đi với chi phí thấp nhất (duongDiChiPhiThapNhat):
+
+Thuật toán này duyệt qua tất cả các điểm và chọn điểm gần nhất chưa được tham quan. Mỗi lần tìm điểm gần nhất có độ phức tạp O(n).
+Do có n điểm, hàm này được gọi đệ quy n lần, do đó độ phức tạp của phần này là O(n^2).
+Tổng kết:
+
+Độ phức tạp tổng thể của thuật toán là O(n^2).
+Đây là một giải pháp tham lam, không đảm bảo tìm được đường đi ngắn nhất tuyệt đối nhưng cung cấp một lời giải với chi phí gần tối thiểu trong thời gian hợp lý.

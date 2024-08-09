@@ -1,0 +1,4 @@
+Tổng kết:
+
+Độ phức tạp tổng thể là O(n^2), nhưng có thể tối ưu hơn với thuật toán sắp xếp khác như QuickSort hay MergeSort để giảm xuống O(n log n).
+Giải thuật đảm bảo chọn được số lượng hoạt động tối đa mà không có sự trùng lặp thời gian.

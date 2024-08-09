@@ -1,0 +1,13 @@
+Thuật toán trên có các độ phức tạp như sau:
+
+Hàm nhap:
+
+Độ phức tạp: O(n) (do in thông tin các đồ vật).
+Hàm sx:
+
+Sắp xếp theo đơn giá có độ phức tạp: O(n^2) (sắp xếp chọn với hai vòng lặp lồng nhau).
+Hàm balo:
+
+Độ phức tạp: O(n * M), với n là số lượng đồ vật và M là kích thước tối đa của balo (do sử dụng vòng lặp để chọn đồ vật).
+Tổng kết:
+Độ phức tạp của thuật toán chủ yếu là O(n^2 + n * M), nhưng thực tế phần sắp xếp là chiếm ưu thế, nên độ phức tạp gần như là O(n^2).
