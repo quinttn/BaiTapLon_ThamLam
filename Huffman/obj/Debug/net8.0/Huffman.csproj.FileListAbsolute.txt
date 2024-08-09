@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\bin\Debug\net8.0\Huffman.exe
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\bin\Debug\net8.0\Huffman.deps.json
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\bin\Debug\net8.0\Huffman.runtimeconfig.json
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\bin\Debug\net8.0\Huffman.dll
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\bin\Debug\net8.0\Huffman.pdb
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\obj\Debug\net8.0\Huffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\obj\Debug\net8.0\Huffman.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\obj\Debug\net8.0\Huffman.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\obj\Debug\net8.0\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\obj\Debug\net8.0\Huffman.sourcelink.json
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\obj\Debug\net8.0\Huffman.dll
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\obj\Debug\net8.0\refint\Huffman.dll
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\obj\Debug\net8.0\Huffman.pdb
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\obj\Debug\net8.0\Huffman.genruntimeconfig.cache
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\Huffman\obj\Debug\net8.0\ref\Huffman.dll
