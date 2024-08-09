@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\obj\Debug\net8.0\Balo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\obj\Debug\net8.0\Balo.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\obj\Debug\net8.0\Balo.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\obj\Debug\net8.0\Balo.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\obj\Debug\net8.0\Balo.sourcelink.json
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\bin\Debug\net8.0\Balo.exe
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\bin\Debug\net8.0\Balo.deps.json
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\bin\Debug\net8.0\Balo.runtimeconfig.json
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\bin\Debug\net8.0\Balo.dll
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\bin\Debug\net8.0\Balo.pdb
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\obj\Debug\net8.0\Balo.dll
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\obj\Debug\net8.0\refint\Balo.dll
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\obj\Debug\net8.0\Balo.pdb
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\obj\Debug\net8.0\Balo.genruntimeconfig.cache
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam_TuanDat_ThanhQuyen\Balo\obj\Debug\net8.0\ref\Balo.dll
