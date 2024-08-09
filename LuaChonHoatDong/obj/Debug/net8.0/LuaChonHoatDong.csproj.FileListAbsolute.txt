@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\bin\Debug\net8.0\LuaChonHoatDong.exe
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\bin\Debug\net8.0\LuaChonHoatDong.deps.json
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\bin\Debug\net8.0\LuaChonHoatDong.runtimeconfig.json
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\bin\Debug\net8.0\LuaChonHoatDong.dll
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\bin\Debug\net8.0\LuaChonHoatDong.pdb
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\obj\Debug\net8.0\LuaChonHoatDong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\obj\Debug\net8.0\LuaChonHoatDong.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\obj\Debug\net8.0\LuaChonHoatDong.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\obj\Debug\net8.0\LuaChonHoatDong.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\obj\Debug\net8.0\LuaChonHoatDong.sourcelink.json
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\obj\Debug\net8.0\LuaChonHoatDong.dll
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\obj\Debug\net8.0\refint\LuaChonHoatDong.dll
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\obj\Debug\net8.0\LuaChonHoatDong.pdb
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\obj\Debug\net8.0\LuaChonHoatDong.genruntimeconfig.cache
+C:\Users\WIN 10\Desktop\QUIN\BTL_PTTKTT\ThamLam\ThamLam_TuanDat_ThanhQuyen\LuaChonHoatDong\obj\Debug\net8.0\ref\LuaChonHoatDong.dll
